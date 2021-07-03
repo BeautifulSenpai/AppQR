@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppQR</string>
+    <string name="notes">Записи</string>
+    <string name="search">Поиск</string>
+    <string name="title">Название</string>
+    <string name="type_here">Пишите тут...</string>
+</resources>
